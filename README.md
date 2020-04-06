@@ -11,7 +11,8 @@ In this repository you will find these important files:
 	* https://github.com/hernancontigiani/football-result-predictor
 
 Usage:
-First run the Rest API Flask server
+First run the Rest API Flask server:
+
 `python ./api.py`
 
 Then open your browser and enter this URL example:
