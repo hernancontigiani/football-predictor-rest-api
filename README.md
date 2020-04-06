@@ -16,6 +16,7 @@ First run the Rest API Flask server:
 `python ./api.py`
 
 Then open your browser and enter this URL example:
+
 127.0.0.1:port/predict?home_team=Argentina&away_team=Uruguay
 
 You will get something like this:
