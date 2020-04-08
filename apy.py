@@ -5,7 +5,7 @@ Receives a home and away team in JSON format and return match prediction result
 Example
 
 127.0.0.1:port/predict?home_team=Argentina&away_team=Uruguay
-result:win
+result:wins
 """
 
 from flask import Flask, request, jsonify
