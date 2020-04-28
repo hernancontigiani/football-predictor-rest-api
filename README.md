@@ -25,7 +25,7 @@ You will get something like this:
 Where "home_team" is the local country team
 Where "away_team" is the away country team
 
-This API return the result based on classifier model trained with that from 1872 to present
+This API return the result based on classifier model trained with data from 1872 to present
 
 Future features:
 - Possibility to add new result to database.
